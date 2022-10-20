@@ -1,10 +1,6 @@
 
 We are trying to develop a social media web application that would eliminate fake profiles and bots. 
-This has been inspired from the 'Elon Musk' Twitter buy out situation where he estimated that Twitter has 11% of bots users which kills the user expereince and authentic interest in the app
-We are trying to eliminate or reduce the number of bots a social media appliaction has by launching a web application which ties your account to some sort of identity. 
-
-For instance, a user who needs to login to the app has to submit some sort of identity to prove that he is a legitimate user. It could be a "Drivers License, Student ID, Employment ID, Passport, Bank Statements. 
-This would link your account to your ID which proves the user who has logged in is a legitimate user trying to have the best experience. 
-
-
-Technologies we would be using to develop this are HTML, CSS, Javascript, MongoDb. These technologies would help us develop a webpage and have some sort of databse connectivity to take inputs from the users and map their identities. 
+I got the base idea when I saw fake messages from spam accounts on WhatsApp, Facebook, and other social media applications and sites. These accounts spead fake or biased information to acheive their desire or looting innocent people's money. 
+For this project I would like to study how gmail segregates spam emails from normal emails and have a separate folder for them and try to implement same rules in this application.
+If possible I would even like to implement something like "report" to these messages which will stop others(who are not spamers) from sharing these messages, as many of the spam messages will be so appealing to forward in other groups.
+Overall, I would like to work on reducing fake messages and profiles along side working on stopping the spam messages or atlest warn the reader about these messages. In order to do this, I need to understand how gmail avoids the spam emails and further note the points where gmail and other major digital platforms are failing to stop these.
