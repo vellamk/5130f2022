@@ -1,3 +1,5 @@
   In this project I along with my team are developing an application that helps the users to decide whether to buy an EV or not. Before giving the results out, our application will consider all the facts that are given by the user, analyze them and based on those records it suggest the user if he can get one or no. Initially we might not have perfect or accurate results but we will keep updating and modifying the use cases which will become robust as it ages.
   Coming to the resources I will be using online coding website and youtube, as I start working on the project I will be updating this section by the resource names.
   The general Idea what my team has so far is, to ask the users for their usage of car, their work location type, house location type, travelling distance in a day, how often they use the car for trips, and so on which will give the application and the developer to judge something.
+
+So far, HTML, CSS, JavaScript, firebase are someone the technologies we are planning to use.
