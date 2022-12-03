@@ -1,1 +1,28 @@
 
+Application to decide EV or not EV
+
+
+Objective: 
+	The object of this project is to develop an application that helps the users to decide whether to buy an EV car or not. In this project, the web app takes input from the users like a survey, gather and process the information, and with those inputs the app decides if the user can buy an EV car or no. This application also has a sign-up page and login page which helps the users to save their data on the database and use it for future usage.
+
+Working:
+	Like every application even my application has front-end, back-end, database. So, for the front-end we used, html, CSS, JavaScript, for back-end we used python, Django, and for database postgre database. My part of this project is to build and develop backend, and database, while my teammates are working on frontend. So, using Django I have created an application and made necessary changes in the Django bin and lib files to create an app. All these source codes are uploaded on my GitHub. Finally, I was able to send and receive the data between all ends and save them into the database. In this the crucial part was, the html page which takes users inputs for the analysis and generates the results if they can purchase the EV car or no. In this page I had to take the inputs of the analysis to backend process it and using that result the application decides, once the results are out and these will be stored in users’ account’s database. Whenever the user logs in again he will be able to see his results (I am still working on this part, where the user can see their previous results). Hence, so far this application is fully functional for the basic usage, i.e., a user can login or signup, take the analysis which decides his buying requirement. Coming to the front-end of this application we developed five html pages, five supporting CSS pages and a JavaScript file. These are uploaded in the GitHub as well.
+
+Steps:
+For the backend part,
+
+	Set-up Django and python.
+
+	Make necessary changes in the Django lib and bin files after creating a new app and after starting a project in the Django.
+
+	Once these are ready, create a folder where all the html pages go and name it as template, and create another folder and add additional or supporting files like CSS and JavaScript and other images in this folder and name it as static.
+
+	Now for the database part, again make changes in the Django settings.py file to migrate the database which creates the tables with the gives table names and attributes to it.
+
+	The crucial part of this project is setting up the connection properly, reason being, every python file, html file, CSS file should be edited again with {% static%} commands for the Django to understand what to do in the respective place.
+	
+
+Further Improvements: 
+	The improvements I can think of are making the database more flexible and storing the data of the analysis and retrieve the same in future. 
+
+To make the application more usable, we can add feedback section to take feedback from the user which in turn helps us to add more features to the app to give out more accurate results of the analysis. 
